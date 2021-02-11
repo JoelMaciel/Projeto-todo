@@ -53,6 +53,10 @@ ul{
     justify-content: center;
     align-items: center;
 }
+.hide{
+
+    display: none;
+}
 .cardModal{
     padding: 20px;
     background-color: white;
